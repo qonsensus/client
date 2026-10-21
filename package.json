@@ -48,7 +48,17 @@
     "vite": "^8.3.5"
   },
   "dependencies": {
+    "@lucide/vue": "^1.61.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "class-variance-authority": "^0.7.1",
+    "cn": "^0.5.0",
     "electron-squirrel-startup": "^1.0.1",
+    "reka-ui": "^2.11.0",
+    "tailwindcss": "^4.3.3",
+    "tw-animate-css": "^1.4.0",
     "vue": "^3.5.44"
+  },
+  "allowScripts": {
+    "electron-winstaller@5.4.4": true
   }
 }
